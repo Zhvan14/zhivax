@@ -1,0 +1,25 @@
+{
+  "name": "zhivax-shell",
+  "version": "1.0.0",
+  "description": "A confined, custom shell emulator environment written in Bash.",
+  "main": "bin/zhivax.sh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "shell",
+    "bash",
+    "emulator",
+    "cli",
+    "zhvan"
+  ],
+  "author": "Zhvan",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zhvan14/zhivax.git"
+  },
+  "bin": {
+    "zhivax": "./bin/zhivax.sh"
+  }
+}
